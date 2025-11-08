@@ -25,4 +25,4 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 | `description` | Description of the show |
 | `genre` | Show genre |
 
-![Result screenshot]("C:\Users\MANU\Pictures\result.png")
+
