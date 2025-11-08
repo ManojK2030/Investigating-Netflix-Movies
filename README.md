@@ -24,3 +24,5 @@ You have been supplied with the dataset `netflix_data.csv`, along with the follo
 | `duration` | Duration of the show in minutes |
 | `description` | Description of the show |
 | `genre` | Show genre |
+
+![Result screenshot](https://raw.githubusercontent.com/ManojK2030/Investigating-Netflix-Movies/main/"C:\Users\MANU\Pictures\result.png")
