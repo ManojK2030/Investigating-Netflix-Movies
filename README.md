@@ -1,5 +1,5 @@
 # Investigating-Netflix-Movies
-Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade.
+"Explore Netflix movie data and perform exploratory data analysis for a production company to uncover insights about movies from a particular decade."
 
 **Netflix**! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 
